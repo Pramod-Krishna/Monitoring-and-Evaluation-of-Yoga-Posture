@@ -27,12 +27,18 @@ All keypoints are indexed by part id. The parts and their ids are
 
 ![image](https://user-images.githubusercontent.com/54993262/120840126-7048ad00-c587-11eb-8d49-fcbb25cd2081.png)
 
-Single-person Pose Estimation
+_Single-person Pose Estimation_
 
-![image](https://user-images.githubusercontent.com/54993262/120841083-af2b3280-c588-11eb-9aa0-5c332b13226e.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54993262/120841083-af2b3280-c588-11eb-9aa0-5c332b13226e.png" width="300" height="300">
+</p>
 
-Multi-person Pose Estimation
-![image](https://user-images.githubusercontent.com/54993262/120840620-1dbbc080-c588-11eb-833f-e86ccf7a8f19.png)
+
+_Multi-person Pose Estimation_
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54993262/120840620-1dbbc080-c588-11eb-833f-e86ccf7a8f19.png" width="300" height="300">
+</p>
 
 # Refrences 
 [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
