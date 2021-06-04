@@ -1,11 +1,11 @@
 # Monitoring and Evaluation of Yoga Posture
 
-## Table of Contents
+## _Table of Contents_
 
-## [Introduction]()
-## [PoseNet]()
-## [Refrences]()
-## [Acknowledgement]()
+## [Introduction](https://github.com/Pramod-Krishna/Monitoring-and-Evaluation-of-Yoga-Posture#introduction-1)
+## [PoseNet](https://github.com/Pramod-Krishna/Monitoring-and-Evaluation-of-Yoga-Posture#posenet-1)
+## [Refrences](https://github.com/Pramod-Krishna/Monitoring-and-Evaluation-of-Yoga-Posture#refrences-1)
+## [Acknowledgement](https://github.com/Pramod-Krishna/Monitoring-and-Evaluation-of-Yoga-Posture#acknowledgement-1)
 
 # Introduction
 
@@ -23,17 +23,19 @@ At a high level, pose estimation happens in two phases:
 * Either a single-pose or multi-pose decoding algorithm is used to decode poses, pose confidence scores, keypoint positions, and keypoint confidence scores from the model outputs.
 
 _Keypoints_
-All keypoints are indexed by part id. The parts and their ids are:
+All keypoints are indexed by part id. The parts and their ids are
+
 ![image](https://user-images.githubusercontent.com/54993262/120840126-7048ad00-c587-11eb-8d49-fcbb25cd2081.png)
 
-Single-person Pose Estimation:
+Single-person Pose Estimation
+
 ![image](https://user-images.githubusercontent.com/54993262/120841083-af2b3280-c588-11eb-9aa0-5c332b13226e.png)
 
-Multi-person Pose Estimation:
+Multi-person Pose Estimation
 ![image](https://user-images.githubusercontent.com/54993262/120840620-1dbbc080-c588-11eb-833f-e86ccf7a8f19.png)
 
 # Refrences 
-[PoseNet]((https://github.com/tensorflow/tfjs-models/tree/master/posenet))
+[PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet)
 [Tensor Flow Blog](https://blog.tensorflow.org/2018/05/real-time-human-pose-estimation-in.html)
 
 # Acknowledgement
